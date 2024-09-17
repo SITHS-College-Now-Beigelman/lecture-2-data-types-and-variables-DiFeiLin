@@ -39,3 +39,15 @@ int main(){
 
     return 0;
 }
+
+/*integer: 12
+float: 12.12
+double: 12.123
+character: H
+boolean: 0
+string: my string
+A < B = 1
+100 inch(es) = 8 feet (foot) and 4 inch(es) 
+2 + 3.5 = 5.5
+6 / 4 + 3.9 = 4.9
+5.4 * 2 - (13.6 + 18 / 2) = -11.8*/
